@@ -1,6 +1,15 @@
 # class147
 
+ <!--Camera-->
+        <a-entity position="0 0 15">
+            <a-camera></a-camera>
+        </a-entity>
 
+        <a-entity
+            sound="src: https://cdn.glitch.com/850dd813-e5e9-4dd0-9751-38981ae74172%2Ffh_space_discovery_-_earth_proud_music_preview(1).mp3?v=1604306441093; autoplay: true; volume: 0.5">
+        </a-entity>
+
+-----------------------------------
 
 <a-sky> can be used to add 360 degree image texture or color to the scene.
 The <a-sky> is a very large sphere which can have texture or color attached to the inner surface.
